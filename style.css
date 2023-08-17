@@ -30,12 +30,12 @@ nav{
     border: solid 2px rgb(255, 216, 43);
 }
 
-.upperband{
+.upper{
     display: flex;
     padding: 5px;
     justify-content: end;
 }
-.lowerband{
+.lower{
     display: flex;
     justify-content: space-between;
     
